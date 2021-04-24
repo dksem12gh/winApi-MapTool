@@ -1,0 +1,15 @@
+{
+  "skill": 
+  [
+    {
+      "name": "RUN",
+      "type": "NON_ATTACK",
+      "fileLocation":  "∫πΩ«¿Ã.bmp",
+      "width": 600,
+      "height":  194,  
+      "frameX": 0,
+      "frameY": 0,
+      "offSetX":  0      
+    }
+  ]
+}

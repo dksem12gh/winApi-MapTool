@@ -1,0 +1,149 @@
+﻿  stdafx.cpp
+  animation.cpp
+  animationTest.cpp
+  aStar.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\astar.cpp(22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\astar.cpp(23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\astar.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\astar.cpp(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\astar.cpp(86): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\astar.cpp(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\astar.cpp(462): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\astar.cpp(477): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\astar.cpp(495): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  beatManager.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\beatmanager.cpp(44): warning C4244: '인수': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\beatmanager.cpp(108): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  button.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\button.cpp(9): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\button.cpp(10): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\button.cpp(41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\button.cpp(42): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  buttonTestScene.cpp
+  cameraManager.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\cameramanager.cpp(50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effect.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\effect.cpp(27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effectManager.cpp
+  effectTestScene.cpp
+  gameCamera.cpp
+  JsonSaveLoader.cpp
+  JsonTestScene.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\jsontestscene.cpp(31): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\jsontestscene.cpp(33): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\jsontestscene.cpp(35): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\jsontestscene.cpp(37): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\jsontestscene.cpp(39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\jsontestscene.cpp(41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\jsontestscene.cpp(43): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\jsontestscene.cpp(45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  levelCamera.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\levelcamera.cpp(35): warning C4244: '인수': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\levelcamera.cpp(36): warning C4244: '인수': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\levelcamera.cpp(37): warning C4244: '인수': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\levelcamera.cpp(38): warning C4244: '인수': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Lobby.cpp
+  mapLode.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\maplode.cpp(56): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\maplode.cpp(73): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\maplode.cpp(110): warning C4101: 'hwnd' :참조되지 않은 지역 변수입니다.
+  maptool.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\maptool.cpp(368): warning C4101: 'hwnd' :참조되지 않은 지역 변수입니다.
+  player.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\player.cpp(325): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  quest.cpp
+  questSample.cpp
+  코드를 생성하고 있습니다...
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\maptool.cpp(622): warning C4715: 'maptool::objSelect': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\maptool.cpp(495): warning C4715: 'maptool::terrainSelect': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  shootingEffect.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\shootingeffect.cpp(54): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\shootingeffect.cpp(55): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\shootingeffect.cpp(56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\shootingeffect.cpp(119): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\shootingeffect.cpp(120): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\shootingeffect.cpp(121): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+  image.cpp
+  imageManager.cpp
+  iniData.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\inidata.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\inidata.cpp(35): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\inidata.cpp(40): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\inidata.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\inidata.cpp(67): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\inidata.cpp(88): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\inidata.cpp(91): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+  iniDataTest.cpp
+  jumpSample.cpp
+  keyManager.cpp
+  loading.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(41): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(42): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(77): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(78): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(120): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(125): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(170): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(175): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(197): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\loading.cpp(211): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  loadingScene.cpp
+  mainGame.cpp
+  NumberSample.cpp
+  progressBar.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\progressbar.cpp(17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\progressbar.cpp(52): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\progressbar.cpp(53): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\progressbar.cpp(55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\progressbar.cpp(46): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\progressbar.cpp(47): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\progressbar.cpp(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\progressbar.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\progressbar.cpp(77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  saveLoadTest.cpp
+  sceneManager.cpp
+  secondScene.cpp
+  soundManager.cpp
+  soundTestScene.cpp
+  start.cpp
+  startScene.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\startscene.cpp(30): warning C4244: '인수': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\inidata.cpp(79): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  timeManager.cpp
+  timer.cpp
+  txtDataManager.cpp
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\txtdatamanager.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\txtdatamanager.cpp(38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\txtdatamanager.cpp(63): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  utils.cpp
+  winMain.cpp
+  노트.cpp
+  코드를 생성하고 있습니다...
+d:\json데이터매니져 추가 - 복사본\json데이터매니져 추가\winapi\winapi\txtdatamanager.cpp(41): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  winApi.vcxproj -> D:\Json데이터매니져 추가 - 복사본\Json데이터매니져 추가\winApi\Debug\winApi.exe

@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="매니져">
+      <UniqueIdentifier>{45fc7e26-585a-434a-843e-e459e46be338}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임">
+      <UniqueIdentifier>{e5e7106c-c557-4f2a-bf2f-362d037f9df4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API">
+      <UniqueIdentifier>{de59bd84-490f-4de3-b2d7-ca1c9eac4440}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\stdafx">
+      <UniqueIdentifier>{06a3d718-c25a-4a79-8877-9330efad880c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\이미지">
+      <UniqueIdentifier>{60422429-1dd3-46ec-8b7f-88632224d0eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\유틸">
+      <UniqueIdentifier>{e75bf56a-db97-4fd2-8479-b6dfb045232b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\이펙트">
+      <UniqueIdentifier>{20a4ac81-1e2a-46f8-a1c6-e7dfe4dd0732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\애니메이션">
+      <UniqueIdentifier>{a7d5d296-d5d1-4535-b878-533478909d6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\애니메이션\애니메이션 테스트 씬">
+      <UniqueIdentifier>{dbc8f9d1-58b7-41bb-af88-11065e7fcd52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\세이브로드 테스트씬">
+      <UniqueIdentifier>{fef673ab-6672-4a2d-a667-d35f4c475213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\INI">
+      <UniqueIdentifier>{beef2530-7bd7-4bde-be00-4d2b0b61627c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\INI\INI 테스트 씬">
+      <UniqueIdentifier>{a157c429-0c97-4d5f-9126-e8a4062eb701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\로딩">
+      <UniqueIdentifier>{95b0a7f0-452d-4fbb-b791-1a871bcf444c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\로딩\로딩 씬">
+      <UniqueIdentifier>{f7eaea39-a398-412d-a874-098bd501e379}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\사운드">
+      <UniqueIdentifier>{1bcd1389-577b-45cd-abb3-f78c836102de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\이펙트\이펙트 테스트 씬">
+      <UniqueIdentifier>{7e2acda0-9e6a-4bda-9429-ccfbfa0eff62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\사운드\사운드 테스트 씬">
+      <UniqueIdentifier>{0e570b64-cfaa-4c41-8c62-9bddbc9c55ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\버튼">
+      <UniqueIdentifier>{32ec7617-a9e5-4388-b6e7-ab55e8931296}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\버튼\버튼 테스트 씬">
+      <UniqueIdentifier>{101663dd-23fb-471b-942b-2d4537dee5b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\에이스타">
+      <UniqueIdentifier>{644cb56a-bceb-4af4-9828-45f210385e16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\제이슨">
+      <UniqueIdentifier>{d92f2a63-89df-4d77-872e-dc9e77091f1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\제이슨\제이슨 테스트씬">
+      <UniqueIdentifier>{8ee31667-a444-456e-b78f-d7f69ceb812d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\제이슨\데이터">
+      <UniqueIdentifier>{8246860d-8396-4ab1-bfc4-ebc13637b18c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\Sample">
+      <UniqueIdentifier>{3b01e1df-d401-4408-854b-3d95405ca4d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\타이머">
+      <UniqueIdentifier>{26cd077e-757e-4ad7-a19a-732334387876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\제이슨\퀘스트 샘플">
+      <UniqueIdentifier>{4ef22b14-f660-4c55-ac03-041afa938fc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\게임노드">
+      <UniqueIdentifier>{c74581e2-587b-42c6-b090-558f511f1e4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\프로그래스 바">
+      <UniqueIdentifier>{1f3921e4-c877-4df3-bca3-3c86de7df3bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\맵툴">
+      <UniqueIdentifier>{65fb65a2-06b7-4695-af7f-ea5d776b0daf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\게임씬">
+      <UniqueIdentifier>{94d323ce-a139-404a-8fa6-25e023e2da7a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="mainGame.cpp">
+      <Filter>메인게임</Filter>
+    </ClCompile>
+    <ClCompile Include="winMain.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>API\이미지</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="jumpSample.cpp">
+      <Filter>API\Sample</Filter>
+    </ClCompile>
+    <ClCompile Include="secondScene.cpp">
+      <Filter>API\Sample</Filter>
+    </ClCompile>
+    <ClCompile Include="startScene.cpp">
+      <Filter>API\Sample</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberSample.cpp">
+      <Filter>API\Sample</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>API\유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>API\타이머</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>API\게임노드</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>API\stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="progressBar.cpp">
+      <Filter>API\프로그래스 바</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>API\애니메이션</Filter>
+    </ClCompile>
+    <ClCompile Include="animationTest.cpp">
+      <Filter>API\애니메이션\애니메이션 테스트 씬</Filter>
+    </ClCompile>
+    <ClCompile Include="saveLoadTest.cpp">
+      <Filter>API\세이브로드 테스트씬</Filter>
+    </ClCompile>
+    <ClCompile Include="txtDataManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="iniData.cpp">
+      <Filter>API\INI</Filter>
+    </ClCompile>
+    <ClCompile Include="iniDataTest.cpp">
+      <Filter>API\INI\INI 테스트 씬</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="loading.cpp">
+      <Filter>API\로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="loadingScene.cpp">
+      <Filter>API\로딩\로딩 씬</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="shootingEffect.cpp">
+      <Filter>API\이펙트</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>API\이펙트</Filter>
+    </ClCompile>
+    <ClCompile Include="soundTestScene.cpp">
+      <Filter>API\사운드\사운드 테스트 씬</Filter>
+    </ClCompile>
+    <ClCompile Include="effectTestScene.cpp">
+      <Filter>API\이펙트\이펙트 테스트 씬</Filter>
+    </ClCompile>
+    <ClCompile Include="effectManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="buttonTestScene.cpp">
+      <Filter>API\버튼\버튼 테스트 씬</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>API\버튼</Filter>
+    </ClCompile>
+    <ClCompile Include="aStar.cpp">
+      <Filter>API\에이스타</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonSaveLoader.cpp">
+      <Filter>API\제이슨</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonTestScene.cpp">
+      <Filter>API\제이슨\제이슨 테스트씬</Filter>
+    </ClCompile>
+    <ClCompile Include="questSample.cpp">
+      <Filter>API\제이슨\퀘스트 샘플</Filter>
+    </ClCompile>
+    <ClCompile Include="quest.cpp">
+      <Filter>API\제이슨\퀘스트 샘플</Filter>
+    </ClCompile>
+    <ClCompile Include="cameraManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="start.cpp">
+      <Filter>메인게임</Filter>
+    </ClCompile>
+    <ClCompile Include="maptool.cpp">
+      <Filter>API\맵툴</Filter>
+    </ClCompile>
+    <ClCompile Include="mapLode.cpp">
+      <Filter>API\게임씬</Filter>
+    </ClCompile>
+    <ClCompile Include="Lobby.cpp">
+      <Filter>API\게임씬</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>API\게임씬</Filter>
+    </ClCompile>
+    <ClCompile Include="gameCamera.cpp">
+      <Filter>API\게임씬</Filter>
+    </ClCompile>
+    <ClCompile Include="levelCamera.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="beatManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="노트.cpp">
+      <Filter>메인게임</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="commonMacroFiunction.h">
+      <Filter>API\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>API\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="mainGame.h">
+      <Filter>메인게임</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>API\이미지</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="jumpSample.h">
+      <Filter>API\Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="secondScene.h">
+      <Filter>API\Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="startScene.h">
+      <Filter>API\Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberSample.h">
+      <Filter>API\Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>API\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>API\타이머</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>API\게임노드</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>API\stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="progressBar.h">
+      <Filter>API\프로그래스 바</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>API\애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="animationTest.h">
+      <Filter>API\애니메이션\애니메이션 테스트 씬</Filter>
+    </ClInclude>
+    <ClInclude Include="saveLoadTest.h">
+      <Filter>API\세이브로드 테스트씬</Filter>
+    </ClInclude>
+    <ClInclude Include="txtDataManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="iniData.h">
+      <Filter>API\INI</Filter>
+    </ClInclude>
+    <ClInclude Include="iniDataTest.h">
+      <Filter>API\INI\INI 테스트 씬</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="loading.h">
+      <Filter>API\로딩</Filter>
+    </ClInclude>
+    <ClInclude Include="loadingScene.h">
+      <Filter>API\로딩\로딩 씬</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="shootingEffect.h">
+      <Filter>API\이펙트</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>API\이펙트</Filter>
+    </ClInclude>
+    <ClInclude Include="soundTestScene.h">
+      <Filter>API\사운드\사운드 테스트 씬</Filter>
+    </ClInclude>
+    <ClInclude Include="effectTestScene.h">
+      <Filter>API\이펙트\이펙트 테스트 씬</Filter>
+    </ClInclude>
+    <ClInclude Include="effectManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="buttonTestScene.h">
+      <Filter>API\버튼\버튼 테스트 씬</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>API\버튼</Filter>
+    </ClInclude>
+    <ClInclude Include="aStar.h">
+      <Filter>API\에이스타</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonSaveLoader.h">
+      <Filter>API\제이슨</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonTestScene.h">
+      <Filter>API\제이슨\제이슨 테스트씬</Filter>
+    </ClInclude>
+    <ClInclude Include="questSample.h">
+      <Filter>API\제이슨\퀘스트 샘플</Filter>
+    </ClInclude>
+    <ClInclude Include="quest.h">
+      <Filter>API\제이슨\퀘스트 샘플</Filter>
+    </ClInclude>
+    <ClInclude Include="tileNode.h">
+      <Filter>메인게임</Filter>
+    </ClInclude>
+    <ClInclude Include="cameraManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="start.h">
+      <Filter>메인게임</Filter>
+    </ClInclude>
+    <ClInclude Include="maptool.h">
+      <Filter>API\맵툴</Filter>
+    </ClInclude>
+    <ClInclude Include="Lobby.h">
+      <Filter>API\게임씬</Filter>
+    </ClInclude>
+    <ClInclude Include="mapLode.h">
+      <Filter>API\게임씬</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>API\게임씬</Filter>
+    </ClInclude>
+    <ClInclude Include="gameCamera.h">
+      <Filter>API\게임씬</Filter>
+    </ClInclude>
+    <ClInclude Include="levelCamera.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="beatManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="아이템.json">
+      <Filter>API\제이슨\데이터</Filter>
+    </None>
+    <None Include="퀘스트.json">
+      <Filter>API\제이슨\데이터</Filter>
+    </None>
+    <None Include="캐릭터.json">
+      <Filter>API\제이슨\데이터</Filter>
+    </None>
+  </ItemGroup>
+</Project>
